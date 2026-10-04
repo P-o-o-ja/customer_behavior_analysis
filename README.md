@@ -182,26 +182,18 @@ Use customer demographics, purchasing behavior, and customer segments to create 
 ## Repository Structure
 
 Customer-Shopping-Behavior-Analysis/
-|
 ├── Problem statment/
-│   └── Business Problem Document.pdf
-|
+   └── Business Problem Document.pdf
 ├── data/
-│   └── Customer_Shopping_Behavior.csv
-│
+  └── Customer_Shopping_Behavior.csv
 ├── python/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
-│
+  └── Customer_Shopping_Behavior_Analysis.ipynb
 ├── mysql/
-│   └── customer_shopping_behavior_analysis.sql
-│
+  └── customer_shopping_behavior_analysis.sql
 ├── powerbi/
-│   └── customer_shopping_behavior.pbix
-│
+  └── customer_shopping_behavior.pbix
 ├── report/
-│   └── Customer Shopping Behavior Analysis.pdf
-│
+  └── Customer Shopping Behavior Analysis.pdf
 ├── presentation/
-│   └── Customer-shopping-behavior Presentation.pdf
-│
+  └── Customer-shopping-behavior Presentation.pdf
 └── README.md
